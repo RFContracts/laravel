@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00cc4aab-31fb-4f2d-bbe7-c0eb0e2e1104" name="laroval" url="http://95.183.12.48">
+        <fileTransfer host="95.183.12.48" port="22" rootFolder="/var/www/alex5" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
